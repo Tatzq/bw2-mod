@@ -1,6 +1,0 @@
-run script RunLepers
-
-begin script RunLepers
-start
-	run script Land2Lepers
-end script RunLepers

@@ -1,7 +1,0 @@
-//------------------------------------------------
-//  LAND 8 Aztec TOWN AI
-//------------------------------------------------
-
-begin script Land8Aztec
-start
-end script Land8Aztec

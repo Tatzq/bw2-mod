@@ -1,8 +1,0 @@
-run script RunLand1MarauderSpy
-
-begin script RunLand1MarauderSpy
-start
-	
-	run script Land1MarauderSpy
-
-end script RunLand1MarauderSpy

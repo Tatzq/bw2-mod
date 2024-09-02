@@ -1,6 +1,0 @@
-run script RunLand2SigvidsRuins
-
-begin script RunLand2SigvidsRuins
-start
-	run script Land2SigvidsRuins
-end script RunLand2SigvidsRuins

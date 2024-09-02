@@ -1,6 +1,0 @@
-run script RunRooster
-
-begin script RunRooster
-start
-	run script Rooster
-end script RunRooster

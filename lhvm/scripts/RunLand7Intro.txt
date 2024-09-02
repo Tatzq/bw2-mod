@@ -1,6 +1,0 @@
-run script RunLand7Intro
-
-begin script RunLand7Intro
-start
-	run script Land7Intro
-end script RunLand7Intro

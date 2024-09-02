@@ -1,2 +1,0 @@
-These are the original uncompiled `LHVM` script files used to create the story and gameplay of Lionhead's Black & White 2.
-They can be compiled using the script compiler in the official Black & White 2 Modding Tools.

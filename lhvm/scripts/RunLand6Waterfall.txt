@@ -1,6 +1,0 @@
-run script RunLand6Waterfall
-
-begin script RunLand6Waterfall
-start
-	run script Land6Waterfall
-end script RunLand6Waterfall

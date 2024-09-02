@@ -1,7 +1,0 @@
-run script RunLand5SevenSamurai
-
-begin script RunLand5SevenSamurai
-start
-	run script Land5SevenSamurai
-
-end script RunLand5SevenSamurai

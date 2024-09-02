@@ -1,4 +1,0 @@
-//Land8Ghost.txt
-begin script Land8Ghost
-start
-end script Land8Ghost

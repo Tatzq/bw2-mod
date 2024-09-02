@@ -1,6 +1,0 @@
-run script RunGlobalTreasure
-
-begin script RunGlobalTreasure
-start
-	run script GlobalTreasure
-end script RunGlobalTreasure
